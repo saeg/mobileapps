@@ -1,9 +1,10 @@
 <img align="right" src="https://raw.github.com/wiki/zxing/zxing/zxing-logo.png"/>
 
-We are using ZXing for assessing SATs ability to detect vulnerabilies in mobile apps. In the master directory there are two pom-like files: pom.xml.orig and pom.xml.sec. The first one is the original pom.xml file of ZXing. The second one was modifiled to run findsecbugs.
+We are using ZXing for assessing SATs ability to detect vulnerabilies in mobile apps. 
 
-##How to run findbugs:
+## How to run findbugs:
 
+In the master directory there are two pom-like files: pom.xml.orig and pom.xml.sec. The first one is the original pom.xml file of ZXing. The second one was modifiled to run findsecbugs.
 
 1) > cp pom.orig.xml pom.xml
 2) > mvn clean
@@ -15,7 +16,7 @@ If you want to see the results you may use the findbugs gui. The gui will be inv
 
 5) > mvn findbugs:gui
  
-##How to run findsecbugs:
+## How to run findsecbugs:
 
 1) > cp pom.orig.xml pom.xml
 2) > mvn clean
