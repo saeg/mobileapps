@@ -34,7 +34,7 @@ You may want to import ZXing to Eclipse. You can use the deprecated command belo
 
 It runs successfully, but the import to Eclipse did not work well
 
-##Get Started Developing
+## Get Started Developing
 To get started, please visit: https://github.com/zxing/zxing/wiki/Getting-Started-Developing
 
 ZXing ("zebra crossing") is an open-source, multi-format 1D/2D barcode image processing
