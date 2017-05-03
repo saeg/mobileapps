@@ -1,5 +1,38 @@
 <img align="right" src="https://raw.github.com/wiki/zxing/zxing/zxing-logo.png"/>
 
+We are using ZXing for assessing SATs ability to detect vulnerabilies in mobile apps. In the master directory there are two pom-like files: pom.xml.orig and pom.xml.sec. The first one is the original pom.xml file of ZXing. The second one was modifiled to run findsecbugs.
+
+##How to run findbugs:
+
+
+1) > cp pom.orig.xml pom.xml
+2) > mvn clean
+3) > mvn install -Drat.skip=true
+4) > mvn findbugs:findbugs
+
+The results will be in the "target" subdirectories of each module (e.g., core/target;javase/target) in a file called findbugsXml.xml.
+If you want to see the results you may use the findbugs gui. The gui will be invoked per module. When you leave one module it will call the next one.
+
+5) > mvn findbugs:gui
+ 
+##How to run findsecbugs:
+
+1) > cp pom.orig.xml pom.xml
+2) > mvn clean
+2) > mvn install -Drat.skip=true
+3) > mvn findbugs:findbugs
+
+The results will be in the "target" subdirectories of each module (e.g., core/target;javase/target) in a file called findbugsXml.xml.
+The gui does not work for findsecbugs. One should verify the xml files to check the vulnerabilities detected.
+
+## Import to eclipse
+
+You may want to import ZXing to Eclipse. You can use the deprecated command below.
+
+1) mvn eclipse:eclipse
+
+It runs successfully, but the import to Eclipse did not work well
+
 ##Get Started Developing
 To get started, please visit: https://github.com/zxing/zxing/wiki/Getting-Started-Developing
 
