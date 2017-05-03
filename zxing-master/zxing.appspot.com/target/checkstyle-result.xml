@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.19">
+<file name="/home/chaim/Dropbox/Documents/projetos/CooperationNorway/zxing-master/zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/GeoLocationGenerator.java">
+</file>
+<file name="/home/chaim/Dropbox/Documents/projetos/CooperationNorway/zxing-master/zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/ContactInfoGenerator.java">
+</file>
+<file name="/home/chaim/Dropbox/Documents/projetos/CooperationNorway/zxing-master/zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/WifiGenerator.java">
+</file>
+<file name="/home/chaim/Dropbox/Documents/projetos/CooperationNorway/zxing-master/zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/SmsAddressGenerator.java">
+</file>
+<file name="/home/chaim/Dropbox/Documents/projetos/CooperationNorway/zxing-master/zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/PhoneNumberGenerator.java">
+</file>
+<file name="/home/chaim/Dropbox/Documents/projetos/CooperationNorway/zxing-master/zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/TimeZoneList.java">
+</file>
+<file name="/home/chaim/Dropbox/Documents/projetos/CooperationNorway/zxing-master/zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/EmailGenerator.java">
+</file>
+<file name="/home/chaim/Dropbox/Documents/projetos/CooperationNorway/zxing-master/zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/GeneratorException.java">
+</file>
+<file name="/home/chaim/Dropbox/Documents/projetos/CooperationNorway/zxing-master/zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/GeneratorSource.java">
+</file>
+<file name="/home/chaim/Dropbox/Documents/projetos/CooperationNorway/zxing-master/zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/UrlGenerator.java">
+</file>
+<file name="/home/chaim/Dropbox/Documents/projetos/CooperationNorway/zxing-master/zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/StylesDefs.java">
+</file>
+<file name="/home/chaim/Dropbox/Documents/projetos/CooperationNorway/zxing-master/zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/CalendarEventGenerator.java">
+</file>
+<file name="/home/chaim/Dropbox/Documents/projetos/CooperationNorway/zxing-master/zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/Validators.java">
+</file>
+<file name="/home/chaim/Dropbox/Documents/projetos/CooperationNorway/zxing-master/zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/Generator.java">
+</file>
+<file name="/home/chaim/Dropbox/Documents/projetos/CooperationNorway/zxing-master/zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/TimeZoneInfo.java">
+</file>
+<file name="/home/chaim/Dropbox/Documents/projetos/CooperationNorway/zxing-master/zxing.appspot.com/src/main/java/com/google/zxing/web/generator/client/TextGenerator.java">
+</file>
+</checkstyle>

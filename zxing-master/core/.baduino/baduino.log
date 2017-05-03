@@ -1,0 +1,24 @@
+[DEBUG] 05-04-2017 15:03:27 TestsRunner:28 - Loading classes
+[DEBUG] 05-04-2017 15:03:29 TestsRunner:42 - Finished loading classes
+[DEBUG] 05-04-2017 15:03:29 TestsRunner:59 - Finished loading test classes
+[DEBUG] 05-04-2017 15:03:29 TestsRunner:60 - Testing with JUnit
+[INFO ] 05-04-2017 15:03:33 TestsRunner:64 - Executed 55 tests in 3.985 seconds. 3 tests failed.
+[INFO ] 05-04-2017 15:03:33 TestsRunner:73 - initializationError(com.google.zxing.oned.rss.expanded.decoders.AbstractDecoderTest): The class com.google.zxing.oned.rss.expanded.decoders.AbstractDecoderTest is not public.
+[INFO ] 05-04-2017 15:03:33 TestsRunner:73 - initializationError(com.google.zxing.oned.rss.expanded.decoders.AbstractDecoderTest): Test class should have exactly one public constructor
+[INFO ] 05-04-2017 15:03:33 TestsRunner:73 - initializationError(com.google.zxing.oned.rss.expanded.decoders.AbstractDecoderTest): No runnable methods
+[DEBUG] 05-04-2017 15:47:16 TestsRunner:28 - Loading classes
+[DEBUG] 05-04-2017 15:47:18 TestsRunner:42 - Finished loading classes
+[DEBUG] 05-04-2017 15:47:18 TestsRunner:59 - Finished loading test classes
+[DEBUG] 05-04-2017 15:47:18 TestsRunner:60 - Testing with JUnit
+[INFO ] 05-04-2017 15:47:23 TestsRunner:64 - Executed 55 tests in 4.377 seconds. 3 tests failed.
+[INFO ] 05-04-2017 15:47:23 TestsRunner:73 - initializationError(com.google.zxing.oned.rss.expanded.decoders.AbstractDecoderTest): The class com.google.zxing.oned.rss.expanded.decoders.AbstractDecoderTest is not public.
+[INFO ] 05-04-2017 15:47:23 TestsRunner:73 - initializationError(com.google.zxing.oned.rss.expanded.decoders.AbstractDecoderTest): Test class should have exactly one public constructor
+[INFO ] 05-04-2017 15:47:23 TestsRunner:73 - initializationError(com.google.zxing.oned.rss.expanded.decoders.AbstractDecoderTest): No runnable methods
+[DEBUG] 05-04-2017 16:04:11 TestsRunner:28 - Loading classes
+[DEBUG] 05-04-2017 16:04:13 TestsRunner:42 - Finished loading classes
+[DEBUG] 05-04-2017 16:04:13 TestsRunner:59 - Finished loading test classes
+[DEBUG] 05-04-2017 16:04:13 TestsRunner:60 - Testing with JUnit
+[INFO ] 05-04-2017 16:04:16 TestsRunner:64 - Executed 55 tests in 3.230 seconds. 3 tests failed.
+[INFO ] 05-04-2017 16:04:16 TestsRunner:73 - initializationError(com.google.zxing.oned.rss.expanded.decoders.AbstractDecoderTest): The class com.google.zxing.oned.rss.expanded.decoders.AbstractDecoderTest is not public.
+[INFO ] 05-04-2017 16:04:16 TestsRunner:73 - initializationError(com.google.zxing.oned.rss.expanded.decoders.AbstractDecoderTest): Test class should have exactly one public constructor
+[INFO ] 05-04-2017 16:04:16 TestsRunner:73 - initializationError(com.google.zxing.oned.rss.expanded.decoders.AbstractDecoderTest): No runnable methods

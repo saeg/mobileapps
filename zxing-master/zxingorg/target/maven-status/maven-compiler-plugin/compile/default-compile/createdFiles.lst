@@ -1,0 +1,12 @@
+com/google/zxing/web/OutputUtils.class
+com/google/zxing/web/AbstractFilter.class
+com/google/zxing/web/HTTPSFilter.class
+com/google/zxing/web/DecodeServlet.class
+com/google/zxing/web/ServletContextLogHandler.class
+com/google/zxing/web/WelcomeFilter.class
+com/google/zxing/web/ChartServletRequestParameters.class
+com/google/zxing/web/DoSFilter.class
+com/google/zxing/web/DoSFilter$3.class
+com/google/zxing/web/DoSFilter$1.class
+com/google/zxing/web/ChartServlet.class
+com/google/zxing/web/DoSFilter$2.class

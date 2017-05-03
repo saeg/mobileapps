@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.19">
+<file name="/home/chaim/Dropbox/Documents/projetos/CooperationNorway/zxing-master/zxingorg/src/main/java/com/google/zxing/web/ServletContextLogHandler.java">
+</file>
+<file name="/home/chaim/Dropbox/Documents/projetos/CooperationNorway/zxing-master/zxingorg/src/main/java/com/google/zxing/web/ChartServletRequestParameters.java">
+</file>
+<file name="/home/chaim/Dropbox/Documents/projetos/CooperationNorway/zxing-master/zxingorg/src/main/java/com/google/zxing/web/WelcomeFilter.java">
+</file>
+<file name="/home/chaim/Dropbox/Documents/projetos/CooperationNorway/zxing-master/zxingorg/src/main/java/com/google/zxing/web/OutputUtils.java">
+</file>
+<file name="/home/chaim/Dropbox/Documents/projetos/CooperationNorway/zxing-master/zxingorg/src/main/java/com/google/zxing/web/DoSFilter.java">
+</file>
+<file name="/home/chaim/Dropbox/Documents/projetos/CooperationNorway/zxing-master/zxingorg/src/main/java/com/google/zxing/web/ChartServlet.java">
+</file>
+<file name="/home/chaim/Dropbox/Documents/projetos/CooperationNorway/zxing-master/zxingorg/src/main/java/com/google/zxing/web/DecodeServlet.java">
+</file>
+<file name="/home/chaim/Dropbox/Documents/projetos/CooperationNorway/zxing-master/zxingorg/src/main/java/com/google/zxing/web/AbstractFilter.java">
+</file>
+<file name="/home/chaim/Dropbox/Documents/projetos/CooperationNorway/zxing-master/zxingorg/src/main/java/com/google/zxing/web/HTTPSFilter.java">
+</file>
+<file name="/home/chaim/Dropbox/Documents/projetos/CooperationNorway/zxing-master/zxingorg/src/main/resources/Strings.properties">
+</file>
+</checkstyle>
