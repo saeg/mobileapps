@@ -15,7 +15,7 @@ The description below aims to facilitate the execution of our experiments with I
 
 2.2) Create a directory called "output_iccta" in your working directory. Otherwise, you will get a exception: java.io.FileNotFoundException: output_iccta/[filename].csv (No such file or directory), however, this will not influence the analysis results of Epicc.
 
-2.3) The Epicc's jar file can be optained in the link: https://drive.google.com/open?id=0BydXHit9HR7DVlo5UFJtNTk4SVU.
+2.3) The Epicc's jar file can be optained in the link: https://drive.google.com/open?id=0BydXHit9HR7DcnYxaFZPZk52VW8.
 
 2.4)  You'll need to execute the "runEpicc.sh". It is in the Epicc directory. Before running Epicc, you should set up environment vars. Verify the "runEpicc.sh" script to make the ajustments.
 
@@ -25,8 +25,8 @@ The description below aims to facilitate the execution of our experiments with I
 
 4.1) java -jar iccta.jar -apkPath path_to_apk -androidJars ..\androidjars\platforms -iccProvider Epicc -nocallbacks -nostatic -intentMatchLevel 3 -nopaths -pathalgo sourceonly
 
-Observation: The above command line allowed to run the tool within minutes. the command:
+Observation: The above command line allowed to run the tool within minutes. The command:
 
 java -jar iccta.jar -apkPath path_to_apk -androidJars ..\androidjars\platforms -iccProvider Epicc -nocallbacks
 
-took a couple of hours and the computer run out of memory.
+may take a couple of hours and make the computer run out of memory, depending on the application.
